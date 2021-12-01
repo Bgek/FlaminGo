@@ -1,0 +1,2 @@
+# FlaminGo
+school project
